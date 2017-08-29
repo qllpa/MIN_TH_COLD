@@ -6,7 +6,7 @@ if ( msg.text ) then
 
   if ( msg.to.type == "user" ) then
 
-     return "لتحدث مع مطورين البوت ليدر @Bedo_Prog ♥ او المطور ليلو @Th2_BOOS ♥ من فضلك تابع قناتنا https://telegram.me/joinchat/DbvJGj753M_fc5b9uppC8A"
+     return "لتحدث مع مطورين البوت  @Monir1997♥ او المطور منیر @ali_moom♥ من فضلك تابع قناتنا https://telegram.me/joinchat/MAIN_TH_GOLD"
   end
    
 end 
