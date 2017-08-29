@@ -28,8 +28,8 @@ local S = [[
 ▫️الغاء تحذير الروابط /لفتح تحذير الروابـــط
 ▫️الغاء تحذير اعاده توجيه /فتح تحذير توجيه
 ➠➪➸➠➪➸➠➪➸➠➪➸➠➪➸➠➪
-Dev : @Th2_BOOS
-Dev : @Bedo_prog
+Dev : @ali_moom
+Dev : @Monir1997
 ]] 
 reply_msg(reply_id, S, ok_cb, false) 
 end 
