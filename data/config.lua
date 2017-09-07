@@ -64,6 +64,7 @@ do local _ = {
      "h5",
      "h6",
      "ar-help",
+     "lockfwd(1).lua",
 
   },
   help_text = "",
